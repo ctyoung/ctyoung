@@ -180,7 +180,6 @@ characters = characters.replace('"','\\"')
 #TODO simple: remove unmatchable strings like "Skullbuster (Cylla Markham)"
 #TODO tricker: hone in on Marvel-only mentions, e.g. "Rhino" hits will be mostly unrelated to the Marvel character
 csdl = 'interaction.content contains_any "' + characters + '" and language.tag == "en" ' 
-print csdl[4920:]
 
 # check query is valid
 fltr = client.compile(csdl)
