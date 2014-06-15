@@ -1,8 +1,8 @@
 # config for endlessMarvels
 # should be replaced with user's own details
 
-PUBLIC_KEY = 'a647e71b6f1d17055e883ea51c161b3d'
-PRIVATE_KEY = 'eb429707ea1c786f6e44fb6cbf2d029a6ec0fd18'
+PUBLIC_KEY = "your Marvel public key here"
+PRIVATE_KEY = "your Marvel private key here"
 
-DATASIFT_USERNAME = 'ctyoung'
-DATASIFT_APIKEY = '5729b9aba55b726fc71dada8d225b917'
+DATASIFT_USERNAME = "your Datasift username here"
+DATASIFT_APIKEY = "your Datasift API key here"
